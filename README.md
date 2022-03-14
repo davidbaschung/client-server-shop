@@ -1,6 +1,8 @@
 # client-server-shop
 > Two programs communicating through sockets
 
+Basic e-commerce store, where the client can buy or sell products, read their count and print the products list.
+
 <h3>What I learned</h3>
 <ul><li>Sockets usage in C</li></ul>
 
