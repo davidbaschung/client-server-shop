@@ -1,7 +1,7 @@
 # client-server-shop
 > Two programs communicating through sockets
 
-E-commerce store group project, where the client can buy or sell products, read their count and print the products list.
+E-commerce store group project, where the client can buy or sell products to the store/server, read their count and print the products list.
 
 <h3>What I learned</h3>
 <ul><li>Sockets usage in C</li></ul>
